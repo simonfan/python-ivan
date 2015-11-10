@@ -1,0 +1,88 @@
+A18,Família
+B18,Natureza
+C18,Classe
+D18,Grupo
+E18,Tipo de consumo
+F18,Tipo de bem
+G18,Tipo de apresentação
+H18,Armazenagem refrigerada
+B21,Tipo de aquisição
+C21,Responsabilidade de Aquisição 1
+D21,Responsabilidade de Aquisição 2
+E21,Fonte de Recurso 1
+F21,Fonte de Recurso 2
+A24,Observação 1
+A41,Observação 2
+C73,Tipo de atenção
+D73,Tipo de unidade
+E73,Consumo em 2015
+F73,Consumo anual previsto para 2016
+C74,Tipo de atenção2
+D74,Tipo de unidade2
+E74,Consumo em 2016 2
+F74,Consumo anual previsto para 2017 2
+C75,Tipo de atenção3
+D75,Tipo de unidade3
+E75,Consumo em 2016 3
+F75,Consumo anual previsto para 2017 3
+C75,Tipo de atenção4
+D75,Tipo de unidade4
+E75,Consumo em 2016 4
+F75,Consumo anual previsto para 2017 4
+C76,Tipo de atenção5
+D76,Tipo de unidade5
+E76,Consumo em 2016 5
+F76,Consumo anual previsto para 2017 5
+C77,Tipo de atenção6
+D77,Tipo de unidade6
+E77,Consumo em 2016 6
+F77,Consumo anual previsto para 2017 6
+C78,Tipo de atenção7
+D78,Tipo de unidade7
+E78,Consumo em 2016 7
+F78,Consumo anual previsto para 2017 7
+C79,Tipo de atenção8
+D79,Tipo de unidade8
+E79,Consumo em 2016 8
+F79,Consumo anual previsto para 2017 8
+C80,Tipo de atenção9
+D80,Tipo de unidade9
+E80,Consumo em 2016 9
+F80,Consumo anual previsto para 2017 9
+C81,Tipo de atenção10
+D81,Tipo de unidade10
+E81,Consumo em 2016 10
+F81,Consumo anual previsto para 2017 10
+C82,Tipo de atenção11
+D82,Tipo de unidade11
+E82,Consumo em 2016 11
+F82,Consumo anual previsto para 2017 11
+C83,Tipo de atenção12
+D83,Tipo de unidade12
+E83,Consumo em 2016 12
+F83,Consumo anual previsto para 2017 12
+C84,Tipo de atenção13
+D84,Tipo de unidade13
+E84,Consumo em 2016 13
+F84,Consumo anual previsto para 2017 13
+C85,Tipo de atenção14
+D85,Tipo de unidade14
+E85,Consumo em 2016 14
+F85,Consumo anual previsto para 2017 14
+E86,Consumo em 2016 Laboratório
+F86,Consumo anual previsto para 2017 Laboratório
+E87,Consumo em 2016 SAMU
+F87,Consumo anual previsto para 2017 SAMU
+E88,Consumo em 2016 COVISA
+F88,Consumo anual previsto para 2017 COVISA
+E89,Consumo em 2016 DST/AIDS
+F89,Consumo anual previsto para 2017 DST/AIDS
+A95,Observação 3
+A129,Observação 4
+C134,Consumo informado (últimos 12 meses)
+D134,"Consumo real
+(últimos 12 meses)"
+E134,Custo anual estimado*
+F134,Último preço vigente
+F149,Quantidade total
+G149,Custo de aquisição
